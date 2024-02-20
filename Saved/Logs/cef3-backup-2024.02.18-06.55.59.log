@@ -1,0 +1,16 @@
+[0218/155402.010:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0218/155402.011:ERROR:entry_impl.cc(1075)] No file for c1030606
+[0218/155402.011:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.011:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.011:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.011:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.011:ERROR:entry_impl.cc(1075)] No file for c103060c
+[0218/155402.011:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.011:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.011:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.011:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.011:ERROR:entry_impl.cc(1075)] No file for c103060e
+[0218/155402.012:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.012:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155402.013:WARNING:storage_block-inl.h(146)] Failed data load.
+[0218/155559.391:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
